@@ -1,5 +1,6 @@
-tensorflow
-tensorflow_hub
+tensorflow==2.15.0
+tensorflow_hub==0.15.0
+streamlit==1.32.0
 pillow
 matplotlib
-jupyter
+numpy
