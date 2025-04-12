@@ -43,7 +43,7 @@ This project is organized in a modular way:
 
 This structure makes the project clean, testable, and easy to extend (e.g. for future web deployment).
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the repository
 
