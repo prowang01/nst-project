@@ -1,0 +1,8 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+model/
+*.jpeg
+*.jpg
+*.png
